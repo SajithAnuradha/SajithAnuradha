@@ -1,3 +1,4 @@
+![logo](https://github.com/SajithAnuradha/SajithAnuradha/blob/main/Leonardo_Diffusion_XL_Create_a_captivating_GitHub_profile_bann_3.jpg)
 <h1 align="center">Hi 👋, I'm Sajith Anuradha</h1>
 <h3 align="center">A passionate full stack developer in Sri Lanka</h3>
 <img align='right' alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
