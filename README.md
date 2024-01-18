@@ -2,15 +2,16 @@
 <h3 align="center">A passionate full stack developer in Sri Lanka</h3>
 <img align='right' alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="sajithanuradha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajithanuradha" alt="sajithanuradha" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sajithanuradha860@gmail.com**
 
 - ⚡ Fun fact **"Did you know? My code is powered by copious amounts of coffee, a sprinkle of creativity, and an unwavering belief in the healing properties of rubber duck debugging! 🦆☕✨"**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="sajithanuradha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajithanuradha" alt="sajithanuradha" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
